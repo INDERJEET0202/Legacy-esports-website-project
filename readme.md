@@ -15,7 +15,7 @@ and I am currently on 2nd Year CSE
 
 ## Legacy eSports website
 
-This contains all the information about my legacy eSports team.
+This contains all the information about my legacy eSports.
 
 [![Legacy eSports](https://img.shields.io/badge/Legacy%20Esports-0A66C2?style=for-the-badge&logo=esports&logoColor=white)](https://www.legacyesports.com/)
 
