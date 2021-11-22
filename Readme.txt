@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: FlexStart
-Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is a simple website for Legacy eSports, using some components from bootstrap & BootstrapMade.
+This contains a little bit of JS and backend is made of php 🙂, Yes its made of php...
