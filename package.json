@@ -1,0 +1,11 @@
+{
+  "name": "teamlegacy",
+  "version": "1.0.0",
+  "description": "this is team legacy esports website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "indrajit",
+  "license": "ISC"
+}
