@@ -439,7 +439,7 @@ define('MYSITE', true);
                   <i class="fas fa-money-bill-alt"></i>
                   <div>
                     <h4>Play and Earn</h4>
-                    <p>At TeamLegacy Esports, the more you play, the more you earn and the more you earn, the more you play</p>
+                    <p>At Legacy Esports, the more you play, the more you earn and the more you earn, the more you play</p>
                   </div>
                 </div>
 
@@ -461,7 +461,7 @@ define('MYSITE', true);
 
         <header class="section-header">
           <h2>OUR GAMES</h2>
-          <p>GAMES - <span>TEAMLEGACY ESPORTS</span> </p>
+          <p>GAMES - <span>LEGACY ESPORTS</span> </p>
         </header>
 
         <div class="row gy-4">
@@ -624,7 +624,7 @@ define('MYSITE', true);
           <div class="col-lg-6 d-flex flex-column justify-content-center">
             <h1 data-aos="fade-up">FREEFIRE JOIN WEEKLY SCRIMS</h1>
             <h2 data-aos="fade-up" data-aos-delay="400" style="
-            color: rgb(255, 255, 255);">Play FREEFIRE Weekly Scrims in TeamLegacy Esports .. Battle with other Top Tier Teams / Professionals and Underdogs To Keep Grinding Your Team . Participate and get exclusive rewards only on TeamLegacy Esports.</h2>
+            color: rgb(255, 255, 255);">Play FREEFIRE Weekly Scrims in Legacy Esports .. Battle with other Top Tier Teams / Professionals and Underdogs To Keep Grinding Your Team . Participate and get exclusive rewards only on Legacy Esports.</h2>
             <div data-aos="fade-up" data-aos-delay="600">
               <div class="text-center text-lg-start">
                 <a href="https://discord.gg/Fd6EwQv6kA" target="_blank" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
@@ -695,8 +695,8 @@ define('MYSITE', true);
                 <div id="faq-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist1">
                   <div class="accordion-body">
                     If want to be a pro esports athlete or the next big youtube/twitch streamer but don't know where to start.. you're in the right place.
-                    Join the TeamLegacy Esports discord now! for custom lobbies, community events, tournaments, scrims and leagues. Join in with your friends or come solo and make new ones.
-                    TeamLegacy Esports is built with the sole focus of providing a platform to the best in Esports & Content centered around Gaming. What are you waiting for? Come be a part of the journey!
+                    Join the Legacy Esports discord now! for custom lobbies, community events, tournaments, scrims and leagues. Join in with your friends or come solo and make new ones.
+                    Legacy Esports is built with the sole focus of providing a platform to the best in Esports & Content centered around Gaming. What are you waiting for? Come be a part of the journey!
                   </div>
                 </div>
               </div>
@@ -712,12 +712,12 @@ define('MYSITE', true);
               <div class="accordion-item">
                 <h2 class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2-content-1">
-                    How to take part in the Tournaments Hosted by TeamLegacy Esports?
+                    How to take part in the Tournaments Hosted by Legacy Esports?
                   </button>
                 </h2>
                 <div id="faq2-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist2">
                   <div class="accordion-body">
-                    Saw one of our many tournaments hosted on Youtube and wondered how to participate? Worry not - you're in the right place. Join the TeamLegacy Esports discord now! All the tournaments hosted by us are featured - and Discord is the permanent means for communication for any TeamLegacy Esports related events or tournaments.
+                    Saw one of our many tournaments hosted on Youtube and wondered how to participate? Worry not - you're in the right place. Join the Legacy Esports discord now! All the tournaments hosted by us are featured - and Discord is the permanent means for communication for any Legacy Esports related events or tournaments.
                   </div>
                 </div>
               </div>
@@ -725,12 +725,12 @@ define('MYSITE', true);
               <div class="accordion-item">
                 <h2 class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2-content-2">
-                    How to join TeamLegacy Esports as a Professional Player?
+                    How to join Legacy Esports as a Professional Player?
                   </button>
                 </h2>
                 <div id="faq2-content-2" class="accordion-collapse collapse" data-bs-parent="#faqlist2">
                   <div class="accordion-body">
-                    We regularly host tryouts and recruit for the games titles that we are involved in, to stay connected with our tryout schedules and the TeamLegacy Esports performance team - join our discord group where you can interact directly with members from the TeamLegacy Esports Guild.
+                    We regularly host tryouts and recruit for the games titles that we are involved in, to stay connected with our tryout schedules and the Legacy Esports performance team - join our discord group where you can interact directly with members from the Legacy Esports Guild.
                   </div>
                 </div>
               </div>
@@ -738,7 +738,7 @@ define('MYSITE', true);
               <div class="accordion-item">
                 <h2 class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2-content-3">
-                    How can I join TeamLegacy Esports as a Caster?
+                    How can I join Legacy Esports as a Caster?
                   </button>
                 </h2>
                 <div id="faq2-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist2">
@@ -948,7 +948,7 @@ define('MYSITE', true);
 
         <header class="section-header">
           <h2>reviews</h2>
-          <p>WHAT THEY ARE SAYING ABOUT <span> TEAMLEGACY ESPORTS </span> </p>
+          <p>WHAT THEY ARE SAYING ABOUT <span> LEGACY ESPORTS </span> </p>
         </header>
 
         <div class="testimonials-slider swiper-container" data-aos="fade-up" data-aos-delay="200">
@@ -993,7 +993,7 @@ define('MYSITE', true);
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
-                  Daily scrims are very helpful, regular tournaments with mega prizeool are also exiting. Scrims are definately improving my skills and techniques.. Thank You TeamLegacy.
+                  Daily scrims are very helpful, regular tournaments with mega prizeool are also exiting. Scrims are definately improving my skills and techniques.. Thank You Legacy.
                 </p>
                 <div class="profile mt-auto">
                   <img src="assets/img/testimonials/demo-pperson-image.jpg" class="testimonial-img" alt="">
@@ -1171,7 +1171,7 @@ define('MYSITE', true);
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/GLITCH_20210610150616.gif" class="img-fluid" alt="">
+                <img src="assets/img/team/indrajit-image-web.png" class="img-fluid" alt="">
                 <div class="social">
                   <a href="https://twitter.com/Rockindra003" target = "_blank"><i class="bi bi-twitter"></i></a>
                   <a href="https://www.facebook.com/profile?id=100033803686797" target = "_blank"><i class="bi bi-facebook"></i></a>
@@ -1183,7 +1183,7 @@ define('MYSITE', true);
               <div class="member-info">
                 <h4>INDRAJIT</h4>
                 <span>Admin, Developer</span>
-                <p>Rerum voluptate non adipisci animi distinctio et deserunt amet voluptas. Quia aut aliquid doloremque ut possimus ipsum officia.</p>
+                <p>...</p>
               </div>
             </div>
           </div>
@@ -1525,9 +1525,9 @@ define('MYSITE', true);
           <div class="col-lg-5 col-md-12 footer-info">
             <a href="index" class="logo d-flex align-items-center">
               <img src="https://cdn.discordapp.com/attachments/864240485446451210/864241191791886336/TL_Esports_Management_20210624_163801.jpg" alt="">
-              <span>TEAMLEGACY ESPORTS</span>
+              <span>LEGACY ESPORTS</span>
             </a>
-            <p>TeamLegacy Esports is an all new automated Esports platform for both Players and Organizers . TeamLegacy esports provide the platform for the gamers to showcase their skills and nurture their talents. Gaming is still been criticised in India. We hope to change that and encourage youth to come and play with us</p>
+            <p>Legacy Esports is an all new automated Esports platform for both Players and Organizers . Legacy esports provide the platform for the gamers to showcase their skills and nurture their talents. Gaming is still been criticised in India. We hope to change that and encourage youth to come and play with us</p>
             <div class="social-links mt-3">
               <a href="https://discord.gg/Fd6EwQv6kA" class="discord"><i class="bi bi-discord"></i></a>
               <a href="https://youtube.com/c/TeamLegacyEsports" class="youtube"><i class="bi bi-youtube"></i></a>
@@ -1578,7 +1578,7 @@ define('MYSITE', true);
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright 2021 <strong><span>TeamlegacyEsports</span></strong>. All Rights Reserved
+        &copy; Copyright 2021 <strong><span>legacyEsports</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
