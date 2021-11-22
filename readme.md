@@ -13,9 +13,11 @@ and I am currently on 2nd Year CSE
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rockindra003/)
 
 
-## C Programming
+## Legacy eSports website
 
-This repo contains all C programs done in college..
+This contains all the information about my legacy eSports team.
+
+[![Legacy eSports](https://img.shields.io/badge/Legacy%20Esports-0A66C2?style=for-the-badge&logo=esports&logoColor=white)](https://www.legacyesports.com/)
 
 
 ## 🛠 Skills
